@@ -15,8 +15,19 @@ Website portfolio pribadi yang menampilkan informasi tentang Muhammad Luthfi Far
 
 ## 📜 Lisensi
 
-**MIT License**  
-Bebas digunakan, dimodifikasi, dan dipublikasikan untuk keperluan apa pun.
+Seluruh konten dalam website ini (termasuk desain, teks, gambar, kode, dan struktur halaman) adalah milik **Muhammad Luthfi Farizqi**.
+
+Dilarang keras untuk:
+- menyalin (copy) sebagian atau seluruh konten website,
+- memodifikasi, menggandakan, atau mendistribusikan ulang,
+- menjadikan sebagai template atau menggunakan untuk proyek lain,
+- mengunggah ulang (reupload) dalam bentuk apa pun,
+- menggunakan untuk keperluan komersial tanpa izin tertulis.
+
+Website ini hanya boleh digunakan sebagai referensi visual **tanpa meniru atau mengambil isi website**.
+
+Pelanggaran akan dikenakan ketentuan hak cipta yang berlaku.
+
 
 <div class="container">
 
