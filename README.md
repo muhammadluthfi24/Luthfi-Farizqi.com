@@ -28,6 +28,7 @@ Website ini hanya boleh digunakan sebagai referensi visual **tanpa meniru atau m
 
 Pelanggaran akan dikenakan ketentuan hak cipta yang berlaku.
 
+© Copyright + Credit (Markdown)
 
 <div class="container">
 
